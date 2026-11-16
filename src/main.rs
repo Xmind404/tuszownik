@@ -1,4 +1,5 @@
 mod pdf;
+mod detection;
 
 fn main() {
     println!("Hello, world!");
